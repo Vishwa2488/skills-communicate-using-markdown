@@ -18,3 +18,7 @@ git init
 ```javascript
 var str1 = "Hello World!";
 ```
+
+- [x] The first checkout
+- [x] Can you see it. Hope its a yes.
+- [ ] Do I wanna do this. Both of us know the answer to that. 
